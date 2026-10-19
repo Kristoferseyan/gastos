@@ -1,0 +1,1 @@
+ALTER TABLE `recurring` ADD `due_days_before` integer DEFAULT 0 NOT NULL;

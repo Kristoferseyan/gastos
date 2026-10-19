@@ -1,0 +1,1 @@
+ALTER TABLE `chat_messages` ADD `logged_entries` text DEFAULT '[]' NOT NULL;
